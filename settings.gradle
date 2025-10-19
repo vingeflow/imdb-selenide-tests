@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = 'imdb-selenide-tests'
-include('app')
