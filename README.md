@@ -9,7 +9,7 @@ Headless mode
 
 Headed mode
 ```bash
-./gradlew clean test -Dheadless=false
+./gradlew clean test
 ```
 
 ## GitHub Actions
