@@ -13,6 +13,7 @@ Headed mode
 ```
 
 ## GitHub Actions
+Tests run automatically via GitHub Actions on:
 - Push or pull request to the `main` branch  
 - Manual trigger from the [Actions tab](https://github.com/vingeflow/imdb-selenide-tests/actions/workflows/ci.yml) by clicking **“Run workflow”**
 
